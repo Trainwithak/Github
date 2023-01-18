@@ -3,8 +3,18 @@ package github;
 public class Gitdemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		String Hungry="Yes!";
+		
+		 if(Hungry=="Yes")
+		 {
+			 System.out.println("Eat Something...");
+		 }
+			 else
+			 {
+				 System.out.println("Do Work...");
+			 }
+		 }
 	}
 
-}
+
